@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5-Metotlar", "5-Metotlar\5-Metotlar.csproj", "{FA2043B5-CBB4-4E0B-88BC-3AF9A28D7CCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA2043B5-CBB4-4E0B-88BC-3AF9A28D7CCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA2043B5-CBB4-4E0B-88BC-3AF9A28D7CCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA2043B5-CBB4-4E0B-88BC-3AF9A28D7CCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA2043B5-CBB4-4E0B-88BC-3AF9A28D7CCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B6975DD-10A1-48AE-AAC9-34B6E54D691F}
+	EndGlobalSection
+EndGlobal
